@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+   font-size: 62.5%; 
+
+}
+
+img {
+    width: 150px;
+    height: 150px;
+ 
+}
+
+main {
+    margin: 0 auto;
+    margin-top: 10vh;
+    width: 80vw;
+    height: 50vh;
+    max-width: 80rem; 
+    border: solid;
+    border-radius: 15px;
+    content: solid ;
+    background-color: darkgray;
+ 
+}
+
+main section {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    text-align: center;
+    margin: 10px;
+}
+#LabelPrincipal{
+    font-size: 13px;
+    align-content: left;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+}
+
+.InputLado {
+    margin: 4px;
+}
+
+label {
+    font-size: 12px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.infoTriangulo {
+    margin: 0 auto;
+    width: 50vw;
+    height: 25vh;
+    content: solid;
+    background-color: whitesmoke;
+    border: solid;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+main h1 {
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: large;
+    text-align: center;
+}
